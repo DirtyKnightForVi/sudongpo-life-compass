@@ -1,0 +1,35 @@
+{
+  "language_characteristics": {
+    "avg_sentence_length": 30.763318262237075,
+    "sentence_length_variance": 1270.131125454636,
+    "vocabulary_richness": 0.15014375265117594,
+    "technical_term_density": 0.08770718232044199,
+    "emotional_tone": {
+      "positive_ratio": 0.8910505836575876,
+      "negative_ratio": 0.10700389105058365,
+      "overall_tone": "积极"
+    }
+  },
+  "argumentation_style": "演绎论证为主",
+  "rhetorical_devices": [
+    "排比",
+    "对比",
+    "设问",
+    "比喻",
+    "反复"
+  ],
+  "structural_features": {
+    "has_numbering": false,
+    "length_consistency": "低",
+    "has_introduction": false,
+    "has_conclusion": false,
+    "transition_density": "高"
+  },
+  "complexity_indicators": {
+    "vocabulary_complexity": 0.15014375265117594,
+    "sentence_complexity": 30.763318262237075,
+    "concept_complexity": 0.07923154193872425,
+    "structural_complexity": 1.0,
+    "overall_complexity": 0.3303392249014442
+  }
+}

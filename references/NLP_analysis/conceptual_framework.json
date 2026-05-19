@@ -1,0 +1,33 @@
+{
+  "core_concepts": [],
+  "concept_relationships": {},
+  "methodology_indicators": [
+    "研究",
+    "过程",
+    "证明",
+    "方法"
+  ],
+  "value_signals": [
+    "好",
+    "美",
+    "需要",
+    "重要",
+    "应该",
+    "善",
+    "恶",
+    "关键"
+  ],
+  "knowledge_structure": {
+    "knowledge_types": {
+      "理论性": 0,
+      "实践性": 0,
+      "规范性": 0
+    },
+    "abstraction_level": {
+      "abstract_ratio": 0.47058823529411764,
+      "concrete_ratio": 0.5,
+      "level": "具体实用"
+    },
+    "systematic_degree": "中"
+  }
+}
